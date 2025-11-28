@@ -44,10 +44,14 @@
 ![CMake](https://shieldsio.itsrye.uk/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![OpenAPI Specification](https://shieldsio.itsrye.uk/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 ![Raspberry Pi](https://shieldsio.itsrye.uk/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Debian](https://shieldsio.itsrye.uk/badge/debian-CE0056.svg?style=for-the-badge&logo=Debian&logoColor=white)
+![NixOS](https://shieldsio.itsrye.uk/badge/nixos-5b9efc.svg?style=for-the-badge&logo=Nixos&logoColor=white)
 ![SonarQube](https://shieldsio.itsrye.uk/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 ![Python](https://shieldsio.itsrye.uk/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Webpack](https://shieldsio.itsrye.uk/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Swagger](https://shieldsio.itsrye.uk/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Hugo](https://shieldsio.itsrye.uk/badge/hugo-orange.svg?style=for-the-badge&logo=hugo&logoColor=white)
+![Jekyll](https://shieldsio.itsrye.uk/badge/jekyll-red.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Pixel Profile of Rye](https://pixel-profile.vercel.app/api/github-stats?username=dozro&theme=journey&pixelate_avatar=false)<br/>
