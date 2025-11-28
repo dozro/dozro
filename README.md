@@ -50,17 +50,16 @@
 ![Swagger](https://shieldsio.itsrye.uk/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dozro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dozro&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dozro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Pixel Profile of Rye](https://pixel-profile.vercel.app/api/github-stats?username=dozro&theme=journey&pixelate_avatar=false)<br/>
+![Github Streaks of Rye](https://nirzak-streak-stats.vercel.app/?user=dozro&theme=transparent&hide_border=false)<br/>
+![Rye's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dozro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dozro&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![Rye's trophy case](https://github-profile-trophy.vercel.app/?username=dozro&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dozro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Rye's Top contributed Repos](https://github-contributor-stats.vercel.app/api?username=dozro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dozro&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+This Readme contains Graphics generated with [GPRM](https://gprm.itsvg.in) and [LuciNyan's Pixel-Profile](https://github.com/LuciNyan/pixel-profile)
