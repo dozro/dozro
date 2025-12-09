@@ -64,6 +64,11 @@
 ### 🔝 Top Contributed Repo
 ![Rye's Top contributed Repos](https://github-contributor-stats.vercel.app/api?username=dozro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+### Metrics
+
+![Metrics](/github-metrics.svg)
+
 ---
 
 This Readme contains Graphics generated with [GPRM](https://gprm.itsvg.in) and [LuciNyan's Pixel-Profile](https://github.com/LuciNyan/pixel-profile)
+
