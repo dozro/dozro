@@ -18,12 +18,9 @@
 ![Markdown](https://shieldsio.itsrye.uk/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Scala](https://shieldsio.itsrye.uk/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 ![TypeScript](https://shieldsio.itsrye.uk/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Bash Script](https://shieldsio.itsrye.uk/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Cloudflare](https://shieldsio.itsrye.uk/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Codeberg](https://shieldsio.itsrye.uk/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) 
 ![Bun](https://shieldsio.itsrye.uk/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
-![Express.js](https://shieldsio.itsrye.uk/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![jQuery](https://shieldsio.itsrye.uk/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![NPM](https://shieldsio.itsrye.uk/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![NodeJS](https://shieldsio.itsrye.uk/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![SASS](https://shieldsio.itsrye.uk/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -47,7 +44,6 @@
 ![Debian](https://shieldsio.itsrye.uk/badge/debian-CE0056.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![NixOS](https://shieldsio.itsrye.uk/badge/nixos-5b9efc.svg?style=for-the-badge&logo=Nixos&logoColor=white)
 ![SonarQube](https://shieldsio.itsrye.uk/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
-![Python](https://shieldsio.itsrye.uk/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Webpack](https://shieldsio.itsrye.uk/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Swagger](https://shieldsio.itsrye.uk/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Hugo](https://shieldsio.itsrye.uk/badge/hugo-orange.svg?style=for-the-badge&logo=hugo&logoColor=white)
@@ -57,12 +53,6 @@
 ![Pixel Profile of Rye](https://pixel-profile.vercel.app/api/github-stats?username=dozro&theme=journey&pixelate_avatar=false)<br/>
 ![Github Streaks of Rye](https://nirzak-streak-stats.vercel.app/?user=dozro&theme=transparent&hide_border=false)<br/>
 ![Rye's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dozro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![Rye's trophy case](https://github-profile-trophy.vercel.app/?username=dozro&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![Rye's Top contributed Repos](https://github-contributor-stats.vercel.app/api?username=dozro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ### Metrics
 
