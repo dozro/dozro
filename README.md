@@ -15,11 +15,8 @@
 ![Java](https://shieldsio.itsrye.uk/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![LaTeX](https://shieldsio.itsrye.uk/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![JavaScript](https://shieldsio.itsrye.uk/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://shieldsio.itsrye.uk/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Scala](https://shieldsio.itsrye.uk/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 ![TypeScript](https://shieldsio.itsrye.uk/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Cloudflare](https://shieldsio.itsrye.uk/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Codeberg](https://shieldsio.itsrye.uk/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) 
 ![Bun](https://shieldsio.itsrye.uk/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
 ![NPM](https://shieldsio.itsrye.uk/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![NodeJS](https://shieldsio.itsrye.uk/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -27,7 +24,6 @@
 ![Spring](https://shieldsio.itsrye.uk/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Vite](https://shieldsio.itsrye.uk/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Vue.js](https://shieldsio.itsrye.uk/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Thymeleaf](https://shieldsio.itsrye.uk/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
 ![Nginx](https://shieldsio.itsrye.uk/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MariaDB](https://shieldsio.itsrye.uk/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Gitea](https://shieldsio.itsrye.uk/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) 
@@ -47,7 +43,6 @@
 ![Webpack](https://shieldsio.itsrye.uk/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Swagger](https://shieldsio.itsrye.uk/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Hugo](https://shieldsio.itsrye.uk/badge/hugo-orange.svg?style=for-the-badge&logo=hugo&logoColor=white)
-![Jekyll](https://shieldsio.itsrye.uk/badge/jekyll-red.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Pixel Profile of Rye](https://pixel-profile.vercel.app/api/github-stats?username=dozro&theme=journey&pixelate_avatar=false)<br/>
